@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831527760304",
+    "project_id": "cloud-walk-test",
+    "storage_bucket": "cloud-walk-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831527760304:android:c2d72eb8122ed1310de675",
+        "android_client_info": {
+          "package_name": "io.cloudwalk.cloud_walk_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRj2clip0Du6Uus713jsi21p4cPjLGKXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
